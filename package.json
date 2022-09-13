@@ -1,0 +1,22 @@
+{
+  "name": "auto-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walt1992/auto-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walt1992/auto-test/issues"
+  },
+  "homepage": "https://github.com/walt1992/auto-test#readme",
+  "devDependencies": {
+    "auto": "^10.37.4"
+  }
+}
