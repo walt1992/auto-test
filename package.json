@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/walt1992/auto-test#readme",
   "devDependencies": {
-    "auto": "^10.37.4"
   },
   "auto": {
     "plugins": [
